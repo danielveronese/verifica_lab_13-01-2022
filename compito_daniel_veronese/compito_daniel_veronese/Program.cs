@@ -44,7 +44,7 @@ namespace Treni
 
         public int costokm()
         {
-            numkilometri = Convert.ToInt32(Console.ReadLine);
+            numkilometri = Convert.ToInt32(Console.ReadLine());
             costokilomeri = numkilometri * 150;
 
 
@@ -88,7 +88,7 @@ namespace Treni
 
         public int costokm()
         {
-            numkilometri =Convert.ToInt32(Console.ReadLine);    
+            numkilometri =Convert.ToInt32(Console.ReadLine());    
             costokilomeri = numkilometri * 100;
 
 
@@ -132,6 +132,32 @@ namespace Treni
                 tp.calcolo_costo_tot();
 
                 
+
+
+
+
+
+
+
+
+
+            }
+            else
+            {
+                if (i == 2)
+                {
+                    tm.costotreno_merci();
+                    Console.WriteLine("quanti kilomtri devi percorrere?");
+                    tm.costokm();
+                    tm.calcolo_costo_tot();
+
+
+
+
+
+
+                }
+
 
 
 

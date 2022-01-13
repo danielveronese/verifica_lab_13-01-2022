@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\compito_daniel_veronese\\compito_daniel_veronese\\compito_daniel_veronese.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\verifica_lab_13-01-2022\\compito_daniel_veronese\\compito_daniel_veronese\\compito_daniel_veronese.csproj",
       "projectName": "compito_daniel_veronese",
-      "projectPath": "C:\\Users\\User\\Desktop\\compito_daniel_veronese\\compito_daniel_veronese\\compito_daniel_veronese.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\verifica_lab_13-01-2022\\compito_daniel_veronese\\compito_daniel_veronese\\compito_daniel_veronese.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\compito_daniel_veronese\\compito_daniel_veronese\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\verifica_lab_13-01-2022\\compito_daniel_veronese\\compito_daniel_veronese\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
